@@ -102,6 +102,7 @@ body {
 
 
 
+
 /*----- background animation -----*/
 #clown {
     position: fixed;
@@ -395,6 +396,8 @@ body {
     100% {top:170%;left:40%;transform:rotate(850deg)}
 }
 /*----- stars background -----*/
+
+
 
 
 
